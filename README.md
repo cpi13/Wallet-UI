@@ -1,16 +1,33 @@
-# wallet_ui
+# 💳 Krishna's Wallet - Flutter UI  
 
-A new Flutter project.
+A modern **Wallet App UI** built with Flutter.  
+This project demonstrates a clean and responsive wallet dashboard design including card details, expenses tracking, and a pie chart visualization.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Preview  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features  
+- 🏦 Card section with masked number & type (Mastercard)  
+- 🔔 Notification button with custom design  
+- 📊 Expense categories (Groceries, Shopping, Bills, Subscriptions, Fees, etc.)  
+- 🥧 Interactive Pie Chart for expense visualization  
+- 🎨 Clean, minimal, and modern UI design  
+
+---
+
+## 🛠️ Built With  
+- [Flutter](https://flutter.dev) 💙  
+- [Dart](https://dart.dev)  
+
+---
+
+## 🚀 Getting Started  
+
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/your-username/wallet_ui.git
+   cd wallet_ui
