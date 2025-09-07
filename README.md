@@ -7,7 +7,7 @@ This project demonstrates a clean and responsive wallet dashboard design includi
 
 ## 📸 Preview  
 
-<img width="1080" height="2340" alt="wallet_ui" src="https://github.com/user-attachments/assets/5f2818a1-aeae-43eb-ae67-df9adb338d30" />
+<img width="300" alt="wallet_ui" src="https://github.com/user-attachments/assets/5f2818a1-aeae-43eb-ae67-df9adb338d30" />
 
 ---
 
